@@ -1,0 +1,8 @@
+{
+    "Simulator Target Bundle": "com.aivarsmeijers.pushNotifications",
+    "aps":{
+        "alert":"PIX enviado em 04/04/2022 às 12:00. Consulte seu extrato.",
+        "sound":"default",
+        "badge":1
+    }
+}
